@@ -1,0 +1,11 @@
+C:\Users\rosario\Documents\Schule\Anw\bin\Debug\netcoreapp2.2\Anw.deps.json
+C:\Users\rosario\Documents\Schule\Anw\bin\Debug\netcoreapp2.2\Anw.runtimeconfig.json
+C:\Users\rosario\Documents\Schule\Anw\bin\Debug\netcoreapp2.2\Anw.runtimeconfig.dev.json
+C:\Users\rosario\Documents\Schule\Anw\bin\Debug\netcoreapp2.2\Anw.dll
+C:\Users\rosario\Documents\Schule\Anw\bin\Debug\netcoreapp2.2\Anw.pdb
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.csprojAssemblyReference.cache
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.csproj.CoreCompileInputs.cache
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.AssemblyInfoInputs.cache
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.AssemblyInfo.cs
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.dll
+C:\Users\rosario\Documents\Schule\Anw\obj\Debug\netcoreapp2.2\Anw.pdb
